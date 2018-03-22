@@ -1,0 +1,11 @@
+#turtles, #snakes, #insects, #error {
+  display: none;
+}
+
+.form-control {
+  max-width: 400px;
+}
+
+.container {
+  margin: 40px;
+}
